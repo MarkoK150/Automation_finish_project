@@ -10,7 +10,7 @@ Install Java, Maven and Allure report.
 
 - Clone project on your computer.
 
-- Open project  (example: IntelliJ IDEA)
+- Open project in some IDE  (example: IntelliJ IDEA)
 
 - Build Project (enter command in terminal: mvn clean install  and click button Build Project) 
 
