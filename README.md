@@ -14,6 +14,8 @@ Install Java, Maven and Allure reporter.
 
 - Build Project (enter command in terminal: mvn clean install  and click button Build Project) 
 
+- Click Add configuration (Add new configuration-TestNG-Test king (chose Suite) and in Suite field upload GeneralTestNG.xml file from project folder).
+
 - Click button Run and start all tests.
 
 - After finish all tests you can see report. 
