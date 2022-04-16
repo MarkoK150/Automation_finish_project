@@ -2,7 +2,7 @@
 
 ### Requirements before starting application
 
-Install Java, Maven and Allure reporter.
+Install Java, Maven and Allure report.
 
 
 ## Instruction
@@ -10,7 +10,7 @@ Install Java, Maven and Allure reporter.
 
 - Clone project on your computer.
 
-- Open project  (exsample: IntelliJ IDEA)
+- Open project  (example: IntelliJ IDEA)
 
 - Build Project (enter command in terminal: mvn clean install  and click button Build Project) 
 
@@ -29,7 +29,7 @@ Install Java, Maven and Allure reporter.
 
 Open Command Prompt and write allure serve apsolut address and press enter.
 
-exsample: allure serve ...\Automation_practice_project\allure-results
+example: allure serve ...\Automation_practice_project\allure-results
 
 ### Note
 
