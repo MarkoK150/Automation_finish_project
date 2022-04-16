@@ -1,6 +1,6 @@
 # Automation_practice_project
 
-### Requirements before starting aplication
+### Requirements before starting application
 
 Install Java, Maven and Allure reporter.
 
