@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="AutomationPractice" parallel="classes" data-provider-thread-count="2">
+    <test name="TestName">
+        <parameter name="BROWSER" value="CHROME"/>
+        <parameter name="BROWSER_VERSION" value="100"/>
+        <parameter name="WAIT_TIME" value="60"/>
+
+        <classes>
+            <class name="runners.GeneralRunner"/>
+        </classes>
+    </test>
+</suite>
