@@ -20,7 +20,7 @@ Install Java, Maven and Allure report.
     
     2.Click TestNG
      
-    3.In Test king field - chose Suite 
+    3.In Test king field - select Suite 
     
     4.In Suite field upload GeneralTestNG.xml file from project folder.
 
